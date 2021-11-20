@@ -4,7 +4,7 @@
 <b> Link to site:https://castedcrown84.github.io/Horiseon/</b> 
 
 ## About
-<b>Code Refactor</b> is a web application made for Horiseon, a marketing agency. It follows accessibility standards, making it optimized for search engines. 
+<b>Code Refactor</b> is a web application made for Horiseon, a marketing agency. 
 
 ## How it meets accessibility standards?
 <ul>
@@ -14,5 +14,5 @@
     <li>Concise, descriptive title</li>
 </ul>
 
-## Preview
+## Demonstration
 <img src="./assets/images/screenshot.png" alt="Website Screenshot" width="100%">
